@@ -98,5 +98,6 @@ You may modify and reuse it freely.
 
 
 Manu Charan Reddy
-🔗 GitHub: manucharanreddy04
+
+🔗 GitHub: https://github.com/manucharanreddy04
 💼 LinkedIn: https://www.linkedin.com/in/manucharanreddy-kandimalla-64b473373/
